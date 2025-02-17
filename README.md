@@ -24,6 +24,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="60" height="60">
 </a>
 
-<a href="mailto:ranyesantos@gmail.com" target="_blank">
+<a href="mailto:ranyesantos@gmail.com">
   <img src="https://github.com/user-attachments/assets/eacaeefb-7c2b-4d91-aaed-5feaefe1adb0" width="60" height="60">
 </a>
