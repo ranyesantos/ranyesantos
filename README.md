@@ -1,6 +1,6 @@
 ## Olá 👋 Bem vindo!
 
-### Sou o Ranielisson, um desenvolvedor com foco em PHP e Laravel e com grande interesse por back-end e testes unitários. Atualmente trabalhando com desenvolvimento full-stack.
+### Sou o Ranielisson, um desenvolvedor com foco em PHP e Laravel e com grande interesse por back-end e testes automatizados. Atualmente trabalhando com desenvolvimento full-stack.
 
 ## Tecnologias
 
