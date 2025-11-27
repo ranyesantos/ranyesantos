@@ -1,8 +1,8 @@
-## Olá 👋 Bem vindo!
+## Hi 👋 Welcome!
 
-### Sou o Ranielisson, um desenvolvedor com foco em PHP e Laravel e com grande interesse por back-end e testes automatizados. Atualmente trabalhando com desenvolvimento full-stack.
+### I'm Ranielisson, a developer focused on PHP and Laravel, with a strong interest in back-end development and automated testing. Currently working as a full-stack developer.
 
-## Tecnologias
+## Tech stack
 
 <img src="https://github.com/user-attachments/assets/1af88bf4-67a7-4889-9240-6c278add19e7" width="60" height="60">
 
@@ -18,7 +18,7 @@
 
 <img src="https://github.com/user-attachments/assets/e0c774da-b7fc-4c1b-bded-b70ced0d0e54" width="50" height="50">
 
-## Contato
+## Social
 
 <a href="https://www.linkedin.com/in/ranielisson-santos-9a5330239" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="60" height="60">
